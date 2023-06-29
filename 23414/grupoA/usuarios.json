@@ -1,0 +1,18 @@
+[
+  {
+    "usuario": "admin",
+    "clave": "1234"
+  },
+  {
+    "usuario": "compras",
+    "clave": "0303"
+  },
+  {
+    "usuario": "repo",
+    "clave": "7878"
+  },
+  {
+    "usuario": "ventas",
+    "clave": "5678"
+  }
+]

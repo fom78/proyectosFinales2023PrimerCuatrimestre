@@ -1,0 +1,79 @@
+[
+  {
+    "Codigo": 1001,
+    "Nombre": "Manopla silicona",
+    "Categoria": "cocina",
+    "Stock": 5,
+    "Origen": "china"
+  },
+  {
+    "Codigo": 1002,
+    "Nombre": "olla acero inox",
+    "Categoria": "cocina",
+    "Stock": 14,
+    "Origen": "italia"
+  },
+  {
+    "Codigo": 2001,
+    "Nombre": "cuadro flor",
+    "Categoria": "decoracion",
+    "Stock": 2,
+    "Origen": "argentina"
+  },
+  {
+    "Codigo": 2002,
+    "Nombre": "vela aromatica",
+    "Categoria": "decoracion",
+    "Stock": 9,
+    "Origen": "argentina"
+  },
+  {
+    "Codigo": 1004,
+    "Nombre": "espatula acero",
+    "Categoria": "cocina",
+    "Stock": 9,
+    "Origen": "argentina"
+  },
+  {
+    "Codigo": 3001,
+    "Nombre": "cortina ba\u00f1o",
+    "Categoria": "banio",
+    "Stock": 3,
+    "Origen": "argentina"
+  },
+  {
+    "Codigo": 3002,
+    "Nombre": "jabonera",
+    "Categoria": "banio",
+    "Stock": 20,
+    "Origen": "india"
+  },
+  {
+    "Codigo": 3004,
+    "Nombre": "sales ba\u00f1o",
+    "Categoria": "banio",
+    "Stock": 10,
+    "Origen": "argentina"
+  },
+  {
+    "Codigo": 5000,
+    "Nombre": "budinera",
+    "Categoria": "reposteria",
+    "Stock": 15,
+    "Origen": "argentina"
+  },
+  {
+    "Codigo": 5001,
+    "Nombre": "molde para flan",
+    "Categoria": "reposteria",
+    "Stock": 10,
+    "Origen": "argentina"
+  },
+  {
+    "Codigo": 1000,
+    "Nombre": "juego de vajilla x 24 piezas",
+    "Categoria": "cocina",
+    "Stock": 15,
+    "Origen": "brasil"
+  }
+]

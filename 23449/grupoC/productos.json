@@ -1,0 +1,114 @@
+[
+  {
+    "codigo": "C001",
+    "nombre": "Martillo",
+    "categoria": "Construccion",
+    "cantidad": 20,
+    "origen": "Nacional"
+  },
+  {
+    "codigo": "C002",
+    "nombre": "Tornillo",
+    "categoria": "Construccion",
+    "cantidad": 20,
+    "origen": "Nacional"
+  },
+  {
+    "codigo": "C004",
+    "nombre": "Sellador",
+    "categoria": "Construccion",
+    "cantidad": 40,
+    "origen": "Importado"
+  },
+  {
+    "codigo": "C010",
+    "nombre": "Enduido",
+    "categoria": "Construccion",
+    "cantidad": 42,
+    "origen": "Nacional"
+  },
+  {
+    "codigo": "H003",
+    "nombre": "Pinza",
+    "categoria": "Herramienta",
+    "cantidad": 40,
+    "origen": "Importado"
+  },
+  {
+    "codigo": "H005",
+    "nombre": "Tijera",
+    "categoria": "Herramienta",
+    "cantidad": 50,
+    "origen": "Nacional"
+  },
+  {
+    "codigo": "I006",
+    "nombre": "Lampara LED",
+    "categoria": "Iluminacion",
+    "cantidad": 65,
+    "origen": "Nacional"
+  },
+  {
+    "codigo": "J007",
+    "nombre": "Rastrillo",
+    "categoria": "Jardin",
+    "cantidad": 16,
+    "origen": "Importado"
+  },
+  {
+    "codigo": "J009",
+    "nombre": "Sierra",
+    "categoria": "Jardin",
+    "cantidad": 56,
+    "origen": "Importado"
+  },
+  {
+    "codigo": "J765",
+    "nombre": "Cesped Artificial",
+    "categoria": "Jardin",
+    "cantidad": 670,
+    "origen": "Nacional"
+  },
+  {
+    "codigo": "J950",
+    "nombre": "Jarra",
+    "categoria": "Jardin",
+    "cantidad": 10,
+    "origen": "Nacional"
+  },
+  {
+    "codigo": "V003",
+    "nombre": "Tarugos",
+    "categoria": "Varios",
+    "cantidad": 120,
+    "origen": "Nacional"
+  },
+  {
+    "codigo": "V008",
+    "nombre": "Precintos",
+    "categoria": "Varios",
+    "cantidad": 35,
+    "origen": "Nacional"
+  },
+  {
+    "codigo": "V432",
+    "nombre": "Gorra",
+    "categoria": "Varios",
+    "cantidad": 0,
+    "origen": "Nacional"
+  },
+  {
+    "codigo": "V458",
+    "nombre": "Memorias",
+    "categoria": "Varios",
+    "cantidad": 100,
+    "origen": "Nacional"
+  },
+  {
+    "codigo": "V560",
+    "nombre": "Celular",
+    "categoria": "Varios",
+    "cantidad": 30,
+    "origen": "Nacional"
+  }
+]

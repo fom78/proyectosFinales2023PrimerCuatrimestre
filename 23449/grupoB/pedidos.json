@@ -1,0 +1,29 @@
+[
+    {
+        "username": "user",
+        "mail": "user@user.com",
+        "productos": [
+            {
+                "codigo": "H005",
+                "nombre": "Lamparita",
+                "precio": 310,
+                "stock": 488,
+                "cantidad": 20
+            },
+            {
+                "codigo": "H004",
+                "nombre": "Clavo",
+                "precio": 30,
+                "stock": 5000,
+                "cantidad": 200
+            },
+            {
+                "codigo": "H001",
+                "nombre": "Martillo",
+                "precio": 300,
+                "stock": 456,
+                "cantidad": 2
+            }
+        ]
+    }
+]

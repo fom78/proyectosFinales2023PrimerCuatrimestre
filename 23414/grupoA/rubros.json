@@ -1,0 +1,92 @@
+[
+  {
+    "cd_rubro": "FRE",
+    "rubro": "Alimentos frescos",
+    "frio": 1,
+    "cant_articulos": 5
+  },
+  {
+    "cd_rubro": "ALM",
+    "rubro": "Almacen",
+    "frio": 0,
+    "cant_articulos": 52
+  },
+  {
+    "cd_rubro": "BCA",
+    "rubro": "Bebidas con alcohol",
+    "frio": 1,
+    "cant_articulos": 3
+  },
+  {
+    "cd_rubro": "BSA",
+    "rubro": "Bebidas sin acohol",
+    "frio": 1,
+    "cant_articulos": 7
+  },
+  {
+    "cd_rubro": "CAR",
+    "rubro": "Carniceria",
+    "frio": 2,
+    "cant_articulos": 3
+  },
+  {
+    "cd_rubro": "CON",
+    "rubro": "Congelados",
+    "frio": 3,
+    "cant_articulos": 1
+  },
+  {
+    "cd_rubro": "LAC",
+    "rubro": "Lacteos",
+    "frio": 2,
+    "cant_articulos": 6
+  },
+  {
+    "cd_rubro": "LIB",
+    "rubro": "Libreria",
+    "frio": 0,
+    "cant_articulos": 0
+  },
+  {
+    "cd_rubro": "LIM",
+    "rubro": "Limpieza",
+    "frio": 0,
+    "cant_articulos": 13
+  },
+  {
+    "cd_rubro": "SNA",
+    "rubro": "Otros snacks",
+    "frio": 0,
+    "cant_articulos": 0
+  },
+  {
+    "cd_rubro": "PAN",
+    "rubro": "Panaderia",
+    "frio": 1,
+    "cant_articulos": 3
+  },
+  {
+    "cd_rubro": "PER",
+    "rubro": "Perfumeria",
+    "frio": 0,
+    "cant_articulos": 10
+  },
+  {
+    "cd_rubro": "ROT",
+    "rubro": "Rotiseria",
+    "frio": 2,
+    "cant_articulos": 1
+  },
+  {
+    "cd_rubro": "VER",
+    "rubro": "Verduleria",
+    "frio": 1,
+    "cant_articulos": 30
+  },
+  {
+    "cd_rubro": "SNK",
+    "rubro": "snacks",
+    "frio": "1",
+    "cant_articulos": 0
+  }
+]

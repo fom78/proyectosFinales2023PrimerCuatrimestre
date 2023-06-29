@@ -1,0 +1,250 @@
+[
+  {
+    "cantidad": 100000,
+    "categoria": "buloneria",
+    "codigo": 2,
+    "descripcion": "Tornillo Fix",
+    "precioUnit": 68.0,
+    "precioVPublico": 76.0
+  },
+  {
+    "cantidad": 12,
+    "categoria": "buloneria",
+    "codigo": 3,
+    "descripcion": "Tornillo cabeza hexagonal M12x45",
+    "precioUnit": 500,
+    "precioVPublico": 510
+  },
+  {
+    "cantidad": 23,
+    "categoria": "buloneria",
+    "codigo": 4,
+    "descripcion": "Tornillo Fix 6x50",
+    "precioUnit": 32,
+    "precioVPublico": 34
+  },
+  {
+    "cantidad": 34,
+    "categoria": "buloneria",
+    "codigo": 5,
+    "descripcion": "Tornillo Fix 5x45",
+    "precioUnit": 23,
+    "precioVPublico": 23
+  },
+  {
+    "cantidad": 560,
+    "categoria": "buloneria",
+    "codigo": 6,
+    "descripcion": "Tuerca M10 dureza 8",
+    "precioUnit": 26,
+    "precioVPublico": 28
+  },
+  {
+    "cantidad": 789,
+    "categoria": "buloneria",
+    "codigo": 7,
+    "descripcion": "Arandela M6x20mm",
+    "precioUnit": 12,
+    "precioVPublico": 15
+  },
+  {
+    "cantidad": 343,
+    "categoria": "buloneria",
+    "codigo": 8,
+    "descripcion": "Tornillo Allen M4x50 cabeza cilindrica",
+    "precioUnit": 100,
+    "precioVPublico": 110
+  },
+  {
+    "cantidad": 234,
+    "categoria": "buloneria",
+    "codigo": 9,
+    "descripcion": "Tornillo Allen M6x35 cabeza cilindrica",
+    "precioUnit": 76,
+    "precioVPublico": 78
+  },
+  {
+    "cantidad": 500,
+    "categoria": "buloneria",
+    "codigo": 10,
+    "descripcion": "Arandela de Presion 1/4\"",
+    "precioUnit": 13,
+    "precioVPublico": 15
+  },
+  {
+    "cantidad": 400,
+    "categoria": "buloneria",
+    "codigo": 11,
+    "descripcion": "Arandela groover 5/8\"",
+    "precioUnit": 21,
+    "precioVPublico": 24
+  },
+  {
+    "cantidad": 40,
+    "categoria": "buloneria",
+    "codigo": 12,
+    "descripcion": "Tornillo Fix 5.5x55",
+    "precioUnit": 105.0,
+    "precioVPublico": 120.0
+  },
+  {
+    "cantidad": 2323,
+    "categoria": "buloneria",
+    "codigo": 1,
+    "descripcion": "Tornillo Parker 3mm Philips",
+    "precioUnit": 12,
+    "precioVPublico": 14
+  },
+  {
+    "cantidad": 400,
+    "categoria": "buloneria",
+    "codigo": 13,
+    "descripcion": "Tornillo Fix 4.5x40",
+    "precioUnit": 20,
+    "precioVPublico": 23
+  },
+  {
+    "cantidad": 435,
+    "categoria": "buloneria",
+    "codigo": 14,
+    "descripcion": "Tuerca Autofrenante M8 Zincada",
+    "precioUnit": 25,
+    "precioVPublico": 26
+  },
+  {
+    "cantidad": 563,
+    "categoria": "buloneria",
+    "codigo": 15,
+    "descripcion": "Tuerca Autofrenante M6 Zincada",
+    "precioUnit": 20,
+    "precioVPublico": 23
+  },
+  {
+    "cantidad": 120,
+    "categoria": "buloneria",
+    "codigo": 16,
+    "descripcion": "Tornillo Cabeza Hexagonal 3/8 Whitworth",
+    "precioUnit": 15,
+    "precioVPublico": 16
+  },
+  {
+    "cantidad": 300,
+    "categoria": "buloneria",
+    "codigo": 17,
+    "descripcion": "Tornillo Cabeza Hexagonal 5/16 Whitworth",
+    "precioUnit": 14,
+    "precioVPublico": 15
+  },
+  {
+    "cantidad": 369,
+    "categoria": "buloneria",
+    "codigo": 18,
+    "descripcion": "Arandela Biselada M8 Zinc",
+    "precioUnit": 20,
+    "precioVPublico": 24
+  },
+  {
+    "cantidad": 15,
+    "categoria": "ferreteria",
+    "codigo": 356,
+    "descripcion": "llave francesa 8\"",
+    "precioUnit": 15000.0,
+    "precioVPublico": 20000.0
+  },
+  {
+    "cantidad": 23,
+    "categoria": "ferreteria",
+    "codigo": 456,
+    "descripcion": "pinza universal 10 pulgadas",
+    "precioUnit": 2500.0,
+    "precioVPublico": 3400.0
+  },
+  {
+    "cantidad": 5,
+    "categoria": "ferreteria",
+    "codigo": 45698,
+    "descripcion": "mecha acero rapido 5.25mm",
+    "precioUnit": 890.0,
+    "precioVPublico": 1100.0
+  },
+  {
+    "cantidad": 6,
+    "categoria": "ferreteria",
+    "codigo": 45236,
+    "descripcion": "mecha widia 6mm",
+    "precioUnit": 450.0,
+    "precioVPublico": 600.0
+  },
+  {
+    "cantidad": 10,
+    "categoria": "ferreteria",
+    "codigo": 3698,
+    "descripcion": "Punta de Trazar de widia",
+    "precioUnit": 900.0,
+    "precioVPublico": 1050.0
+  },
+  {
+    "cantidad": 2,
+    "categoria": "ferreteria",
+    "codigo": 1287,
+    "descripcion": "Calibre mecanico 150mm",
+    "precioUnit": 15000.0,
+    "precioVPublico": 19500.0
+  },
+  {
+    "cantidad": 2,
+    "categoria": "ferreteria",
+    "codigo": 23,
+    "descripcion": "Tornillo micrometrico 0-25mm",
+    "precioUnit": 40000.0,
+    "precioVPublico": 50000.0
+  },
+  {
+    "cantidad": 234,
+    "categoria": "ferreteria",
+    "codigo": 9897,
+    "descripcion": "punta de trazar",
+    "precioUnit": 1000.0,
+    "precioVPublico": 1300.0
+  },
+  {
+    "cantidad": 12,
+    "categoria": "ferreteria",
+    "codigo": 6666,
+    "descripcion": "destornillador pzdivre pz1x150mm",
+    "precioUnit": 2315.0,
+    "precioVPublico": 3500.0
+  },
+  {
+    "cantidad": 12,
+    "categoria": "ferreteria",
+    "codigo": 98789,
+    "descripcion": "regla metalica 15cm",
+    "precioUnit": 450.0,
+    "precioVPublico": 510.0
+  },
+  {
+    "cantidad": 200,
+    "categoria": "ferreteria",
+    "codigo": 4567,
+    "descripcion": "disco de corte para amoladora1x115mm",
+    "precioUnit": 450.0,
+    "precioVPublico": 540.0
+  },
+  {
+    "cantidad": 12,
+    "categoria": "FERRETERIA",
+    "codigo": 6757,
+    "descripcion": "Alicate de Corte de 8 pulgadas",
+    "precioUnit": 2670.0,
+    "precioVPublico": 3100.0
+  },
+  {
+    "cantidad": 5,
+    "categoria": "FERRETERIA",
+    "codigo": 98547,
+    "descripcion": "Destornillador punta philips PH3x200mm",
+    "precioUnit": 1982.0,
+    "precioVPublico": 2300.0
+  }
+]

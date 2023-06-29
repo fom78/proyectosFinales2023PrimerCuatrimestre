@@ -1,0 +1,794 @@
+[
+  {
+    "cd_articulo": "ALM0001",
+    "cant_dep": 262,
+    "cant_gon": 81,
+    "vencimiento": "10/06/2023"
+  },
+  {
+    "cd_articulo": "ALM0002",
+    "cant_dep": 33,
+    "cant_gon": 3,
+    "vencimiento": "21/05/2025"
+  },
+  {
+    "cd_articulo": "ALM0003",
+    "cant_dep": 52,
+    "cant_gon": 184,
+    "vencimiento": "21/05/2025"
+  },
+  {
+    "cd_articulo": "ALM0004",
+    "cant_dep": 1804,
+    "cant_gon": 92,
+    "vencimiento": "05/05/2024"
+  },
+  {
+    "cd_articulo": "ALM0005",
+    "cant_dep": 843,
+    "cant_gon": 154,
+    "vencimiento": "01/01/2025"
+  },
+  {
+    "cd_articulo": "ALM0006",
+    "cant_dep": 1555,
+    "cant_gon": 250,
+    "vencimiento": "28/02/2025"
+  },
+  {
+    "cd_articulo": "ALM0007",
+    "cant_dep": 1229,
+    "cant_gon": 140,
+    "vencimiento": "01/07/2023"
+  },
+  {
+    "cd_articulo": "ALM0008",
+    "cant_dep": 872,
+    "cant_gon": 8,
+    "vencimiento": "02/11/2026"
+  },
+  {
+    "cd_articulo": "ALM0009",
+    "cant_dep": 1649,
+    "cant_gon": 170,
+    "vencimiento": "13/10/2026"
+  },
+  {
+    "cd_articulo": "ALM0010",
+    "cant_dep": 2424,
+    "cant_gon": 142,
+    "vencimiento": "09/12/2026"
+  },
+  {
+    "cd_articulo": "ALM0011",
+    "cant_dep": 584,
+    "cant_gon": 152,
+    "vencimiento": "01/12/2023"
+  },
+  {
+    "cd_articulo": "ALM0012",
+    "cant_dep": 1663,
+    "cant_gon": 33,
+    "vencimiento": "17/11/2023"
+  },
+  {
+    "cd_articulo": "ALM0013",
+    "cant_dep": 545,
+    "cant_gon": 156,
+    "vencimiento": "30/10/2023"
+  },
+  {
+    "cd_articulo": "ALM0014",
+    "cant_dep": 522,
+    "cant_gon": 21,
+    "vencimiento": "10/12/2023"
+  },
+  {
+    "cd_articulo": "ALM0015",
+    "cant_dep": 11,
+    "cant_gon": 77,
+    "vencimiento": "10/01/2024"
+  },
+  {
+    "cd_articulo": "ALM0016",
+    "cant_dep": 1086,
+    "cant_gon": 248,
+    "vencimiento": "06/06/2024"
+  },
+  {
+    "cd_articulo": "ALM0017",
+    "cant_dep": 282,
+    "cant_gon": 144,
+    "vencimiento": "03/04/2026"
+  },
+  {
+    "cd_articulo": "ALM0018",
+    "cant_dep": 2390,
+    "cant_gon": 32,
+    "vencimiento": "31/05/2026"
+  },
+  {
+    "cd_articulo": "ALM0019",
+    "cant_dep": 1233,
+    "cant_gon": 196,
+    "vencimiento": "09/09/2023"
+  },
+  {
+    "cd_articulo": "ALM0020",
+    "cant_dep": 1503,
+    "cant_gon": 211,
+    "vencimiento": "10/06/2023"
+  },
+  {
+    "cd_articulo": "ALM0021",
+    "cant_dep": 1218,
+    "cant_gon": 197,
+    "vencimiento": "11/09/2023"
+  },
+  {
+    "cd_articulo": "ALM0022",
+    "cant_dep": 1899,
+    "cant_gon": 31,
+    "vencimiento": "12/09/2023"
+  },
+  {
+    "cd_articulo": "ALM0023",
+    "cant_dep": 421,
+    "cant_gon": 210,
+    "vencimiento": "01/06/2025"
+  },
+  {
+    "cd_articulo": "ALM0024",
+    "cant_dep": 627,
+    "cant_gon": 210,
+    "vencimiento": "01/06/2025"
+  },
+  {
+    "cd_articulo": "ALM0025",
+    "cant_dep": 726,
+    "cant_gon": 40,
+    "vencimiento": "01/06/2025"
+  },
+  {
+    "cd_articulo": "ALM0026",
+    "cant_dep": 1916,
+    "cant_gon": 250,
+    "vencimiento": "15/08/2025"
+  },
+  {
+    "cd_articulo": "ALM0027",
+    "cant_dep": 860,
+    "cant_gon": 246,
+    "vencimiento": "22/09/2023"
+  },
+  {
+    "cd_articulo": "ALM0028",
+    "cant_dep": 1516,
+    "cant_gon": 15,
+    "vencimiento": "23/07/2023"
+  },
+  {
+    "cd_articulo": "ALM0029",
+    "cant_dep": 391,
+    "cant_gon": 233,
+    "vencimiento": "24/07/2023"
+  },
+  {
+    "cd_articulo": "ALM0030",
+    "cant_dep": 1951,
+    "cant_gon": 138,
+    "vencimiento": "25/09/2023"
+  },
+  {
+    "cd_articulo": "ALM0031",
+    "cant_dep": 1799,
+    "cant_gon": 98,
+    "vencimiento": "21/10/2026"
+  },
+  {
+    "cd_articulo": "ALM0032",
+    "cant_dep": 388,
+    "cant_gon": 78,
+    "vencimiento": "22/10/2026"
+  },
+  {
+    "cd_articulo": "ALM0033",
+    "cant_dep": 1698,
+    "cant_gon": 28,
+    "vencimiento": "23/10/2026"
+  },
+  {
+    "cd_articulo": "ALM0034",
+    "cant_dep": 421,
+    "cant_gon": 101,
+    "vencimiento": "24/10/2026"
+  },
+  {
+    "cd_articulo": "ALM0035",
+    "cant_dep": 445,
+    "cant_gon": 73,
+    "vencimiento": "25/10/2026"
+  },
+  {
+    "cd_articulo": "ALM0036",
+    "cant_dep": 841,
+    "cant_gon": 93,
+    "vencimiento": "25/03/2024"
+  },
+  {
+    "cd_articulo": "ALM0037",
+    "cant_dep": 1929,
+    "cant_gon": 200,
+    "vencimiento": "07/07/2024"
+  },
+  {
+    "cd_articulo": "ALM0038",
+    "cant_dep": 245,
+    "cant_gon": 125,
+    "vencimiento": "08/07/2024"
+  },
+  {
+    "cd_articulo": "ALM0039",
+    "cant_dep": 1583,
+    "cant_gon": 198,
+    "vencimiento": "09/07/2024"
+  },
+  {
+    "cd_articulo": "ALM0040",
+    "cant_dep": 1637,
+    "cant_gon": 184,
+    "vencimiento": "10/07/2024"
+  },
+  {
+    "cd_articulo": "ALM0041",
+    "cant_dep": 1923,
+    "cant_gon": 115,
+    "vencimiento": "11/11/2023"
+  },
+  {
+    "cd_articulo": "ALM0042",
+    "cant_dep": 2319,
+    "cant_gon": 120,
+    "vencimiento": "12/12/2024"
+  },
+  {
+    "cd_articulo": "ALM0043",
+    "cant_dep": 1404,
+    "cant_gon": 42,
+    "vencimiento": "28/10/2024"
+  },
+  {
+    "cd_articulo": "ALM0044",
+    "cant_dep": 214,
+    "cant_gon": 111,
+    "vencimiento": "26/03/2025"
+  },
+  {
+    "cd_articulo": "ALM0045",
+    "cant_dep": 825,
+    "cant_gon": 4,
+    "vencimiento": "27/03/2025"
+  },
+  {
+    "cd_articulo": "ALM0046",
+    "cant_dep": 788,
+    "cant_gon": 56,
+    "vencimiento": "01/09/2023"
+  },
+  {
+    "cd_articulo": "ALM0047",
+    "cant_dep": 711,
+    "cant_gon": 147,
+    "vencimiento": "02/09/2023"
+  },
+  {
+    "cd_articulo": "ALM0048",
+    "cant_dep": 608,
+    "cant_gon": 37,
+    "vencimiento": "03/09/2023"
+  },
+  {
+    "cd_articulo": "ALM0049",
+    "cant_dep": 554,
+    "cant_gon": 100,
+    "vencimiento": "04/09/2023"
+  },
+  {
+    "cd_articulo": "BCA0008",
+    "cant_dep": 295,
+    "cant_gon": 208,
+    "vencimiento": "02/09/2023"
+  },
+  {
+    "cd_articulo": "BCA0009",
+    "cant_dep": 197,
+    "cant_gon": 133,
+    "vencimiento": "03/09/2023"
+  },
+  {
+    "cd_articulo": "BCA0010",
+    "cant_dep": 2098,
+    "cant_gon": 236,
+    "vencimiento": "04/09/2023"
+  },
+  {
+    "cd_articulo": "BSA0001",
+    "cant_dep": 624,
+    "cant_gon": 109,
+    "vencimiento": "01/11/2023"
+  },
+  {
+    "cd_articulo": "BSA0002",
+    "cant_dep": 1875,
+    "cant_gon": 39,
+    "vencimiento": "03/03/2024"
+  },
+  {
+    "cd_articulo": "BSA0003",
+    "cant_dep": 2033,
+    "cant_gon": 53,
+    "vencimiento": "03/03/2024"
+  },
+  {
+    "cd_articulo": "BSA0004",
+    "cant_dep": 1391,
+    "cant_gon": 194,
+    "vencimiento": "04/03/2024"
+  },
+  {
+    "cd_articulo": "BSA0005",
+    "cant_dep": 436,
+    "cant_gon": 106,
+    "vencimiento": "05/03/2024"
+  },
+  {
+    "cd_articulo": "BSA0006",
+    "cant_dep": 164,
+    "cant_gon": 152,
+    "vencimiento": "06/03/2024"
+  },
+  {
+    "cd_articulo": "BSA0007",
+    "cant_dep": 2334,
+    "cant_gon": 4,
+    "vencimiento": "01/09/2023"
+  },
+  {
+    "cd_articulo": "CAR0001",
+    "cant_dep": 4,
+    "cant_gon": 73,
+    "vencimiento": "15/08/2023"
+  },
+  {
+    "cd_articulo": "CAR0002",
+    "cant_dep": 1796,
+    "cant_gon": 10,
+    "vencimiento": "15/08/2023"
+  },
+  {
+    "cd_articulo": "CAR0003",
+    "cant_dep": 1958,
+    "cant_gon": 24,
+    "vencimiento": "15/08/2023"
+  },
+  {
+    "cd_articulo": "CON0001",
+    "cant_dep": 1947,
+    "cant_gon": 66,
+    "vencimiento": "26/01/2024"
+  },
+  {
+    "cd_articulo": "FRE0001",
+    "cant_dep": 2254,
+    "cant_gon": 250,
+    "vencimiento": "30/07/2023"
+  },
+  {
+    "cd_articulo": "FRE0001",
+    "cant_dep": 1143,
+    "cant_gon": 153,
+    "vencimiento": "15/07/2023"
+  },
+  {
+    "cd_articulo": "FRE0002",
+    "cant_dep": 2027,
+    "cant_gon": 185,
+    "vencimiento": "31/07/2023"
+  },
+  {
+    "cd_articulo": "FRE0002",
+    "cant_dep": 1412,
+    "cant_gon": 14,
+    "vencimiento": "06/08/2023"
+  },
+  {
+    "cd_articulo": "FRE0003",
+    "cant_dep": 24,
+    "cant_gon": 237,
+    "vencimiento": "07/08/2023"
+  },
+  {
+    "cd_articulo": "LAC0001",
+    "cant_dep": 538,
+    "cant_gon": 159,
+    "vencimiento": "08/08/2023"
+  },
+  {
+    "cd_articulo": "LAC0002",
+    "cant_dep": 1421,
+    "cant_gon": 223,
+    "vencimiento": "09/08/2023"
+  },
+  {
+    "cd_articulo": "LAC0003",
+    "cant_dep": 1252,
+    "cant_gon": 227,
+    "vencimiento": "10/08/2023"
+  },
+  {
+    "cd_articulo": "LAC0004",
+    "cant_dep": 406,
+    "cant_gon": 108,
+    "vencimiento": "11/08/2023"
+  },
+  {
+    "cd_articulo": "LAC0005",
+    "cant_dep": 1692,
+    "cant_gon": 119,
+    "vencimiento": "12/08/2023"
+  },
+  {
+    "cd_articulo": "LAC0006",
+    "cant_dep": 884,
+    "cant_gon": 4,
+    "vencimiento": "13/08/2023"
+  },
+  {
+    "cd_articulo": "LIM0001",
+    "cant_dep": 675,
+    "cant_gon": 237,
+    "vencimiento": "01/02/2026"
+  },
+  {
+    "cd_articulo": "LIM0002",
+    "cant_dep": 1854,
+    "cant_gon": 37,
+    "vencimiento": "18/08/2028"
+  },
+  {
+    "cd_articulo": "LIM0003",
+    "cant_dep": 1903,
+    "cant_gon": 113,
+    "vencimiento": "19/08/2028"
+  },
+  {
+    "cd_articulo": "LIM0004",
+    "cant_dep": 656,
+    "cant_gon": 32,
+    "vencimiento": "20/08/2028"
+  },
+  {
+    "cd_articulo": "LIM0005",
+    "cant_dep": 822,
+    "cant_gon": 241,
+    "vencimiento": "21/08/2028"
+  },
+  {
+    "cd_articulo": "LIM0006",
+    "cant_dep": 1988,
+    "cant_gon": 37,
+    "vencimiento": "22/08/2028"
+  },
+  {
+    "cd_articulo": "LIM0007",
+    "cant_dep": 40,
+    "cant_gon": 196,
+    "vencimiento": "23/08/2028"
+  },
+  {
+    "cd_articulo": "LIM0008",
+    "cant_dep": 2418,
+    "cant_gon": 210,
+    "vencimiento": "24/08/2028"
+  },
+  {
+    "cd_articulo": "LIM0009",
+    "cant_dep": 673,
+    "cant_gon": 61,
+    "vencimiento": "25/08/2028"
+  },
+  {
+    "cd_articulo": "LIM0010",
+    "cant_dep": 1277,
+    "cant_gon": 108,
+    "vencimiento": "17/06/2027"
+  },
+  {
+    "cd_articulo": "LIM0011",
+    "cant_dep": 1978,
+    "cant_gon": 2,
+    "vencimiento": "20/02/2028"
+  },
+  {
+    "cd_articulo": "LIM0012",
+    "cant_dep": 1626,
+    "cant_gon": 125,
+    "vencimiento": "21/02/2028"
+  },
+  {
+    "cd_articulo": "LIM0013",
+    "cant_dep": 1034,
+    "cant_gon": 168,
+    "vencimiento": "22/02/2028"
+  },
+  {
+    "cd_articulo": "PAN0001",
+    "cant_dep": 2344,
+    "cant_gon": 73,
+    "vencimiento": "31/07/2023"
+  },
+  {
+    "cd_articulo": "PAN0002",
+    "cant_dep": 460,
+    "cant_gon": 37,
+    "vencimiento": "31/07/2023"
+  },
+  {
+    "cd_articulo": "PAN0003",
+    "cant_dep": 2214,
+    "cant_gon": 82,
+    "vencimiento": "31/07/2023"
+  },
+  {
+    "cd_articulo": "PER0001",
+    "cant_dep": 581,
+    "cant_gon": 106,
+    "vencimiento": "01/02/2025"
+  },
+  {
+    "cd_articulo": "PER0002",
+    "cant_dep": 2202,
+    "cant_gon": 233,
+    "vencimiento": "30/05/2025"
+  },
+  {
+    "cd_articulo": "PER0003",
+    "cant_dep": 1951,
+    "cant_gon": 71,
+    "vencimiento": "31/05/2025"
+  },
+  {
+    "cd_articulo": "PER0004",
+    "cant_dep": 1229,
+    "cant_gon": 102,
+    "vencimiento": "01/06/2025"
+  },
+  {
+    "cd_articulo": "PER0005",
+    "cant_dep": 1411,
+    "cant_gon": 180,
+    "vencimiento": "02/06/2025"
+  },
+  {
+    "cd_articulo": "PER0006",
+    "cant_dep": 1803,
+    "cant_gon": 131,
+    "vencimiento": "03/06/2025"
+  },
+  {
+    "cd_articulo": "PER0007",
+    "cant_dep": 2197,
+    "cant_gon": 244,
+    "vencimiento": "04/06/2025"
+  },
+  {
+    "cd_articulo": "PER0008",
+    "cant_dep": 1423,
+    "cant_gon": 226,
+    "vencimiento": "05/06/2025"
+  },
+  {
+    "cd_articulo": "PER0009",
+    "cant_dep": 232,
+    "cant_gon": 123,
+    "vencimiento": "31/05/2023"
+  },
+  {
+    "cd_articulo": "PER0010",
+    "cant_dep": 1110,
+    "cant_gon": 119,
+    "vencimiento": "01/06/2023"
+  },
+  {
+    "cd_articulo": "ROT0001",
+    "cant_dep": 1640,
+    "cant_gon": 21,
+    "vencimiento": "14/08/2023"
+  },
+  {
+    "cd_articulo": "VER0001",
+    "cant_dep": 399,
+    "cant_gon": 131,
+    "vencimiento": "25/07/2023"
+  },
+  {
+    "cd_articulo": "VER0002",
+    "cant_dep": 1476,
+    "cant_gon": 226,
+    "vencimiento": "26/07/2023"
+  },
+  {
+    "cd_articulo": "VER0003",
+    "cant_dep": 1070,
+    "cant_gon": 160,
+    "vencimiento": "27/07/2023"
+  },
+  {
+    "cd_articulo": "VER0004",
+    "cant_dep": 2177,
+    "cant_gon": 66,
+    "vencimiento": "28/07/2023"
+  },
+  {
+    "cd_articulo": "VER0005",
+    "cant_dep": 2177,
+    "cant_gon": 168,
+    "vencimiento": "29/07/2023"
+  },
+  {
+    "cd_articulo": "VER0006",
+    "cant_dep": 1447,
+    "cant_gon": 234,
+    "vencimiento": "30/07/2023"
+  },
+  {
+    "cd_articulo": "VER0007",
+    "cant_dep": 1732,
+    "cant_gon": 237,
+    "vencimiento": "31/07/2023"
+  },
+  {
+    "cd_articulo": "VER0008",
+    "cant_dep": 2455,
+    "cant_gon": 183,
+    "vencimiento": "01/08/2023"
+  },
+  {
+    "cd_articulo": "VER0009",
+    "cant_dep": 364,
+    "cant_gon": 171,
+    "vencimiento": "02/08/2023"
+  },
+  {
+    "cd_articulo": "VER0010",
+    "cant_dep": 644,
+    "cant_gon": 59,
+    "vencimiento": "03/08/2023"
+  },
+  {
+    "cd_articulo": "VER0011",
+    "cant_dep": 1591,
+    "cant_gon": 229,
+    "vencimiento": "04/08/2023"
+  },
+  {
+    "cd_articulo": "VER0012",
+    "cant_dep": 785,
+    "cant_gon": 169,
+    "vencimiento": "05/08/2023"
+  },
+  {
+    "cd_articulo": "VER0013",
+    "cant_dep": 1712,
+    "cant_gon": 52,
+    "vencimiento": "06/08/2023"
+  },
+  {
+    "cd_articulo": "VER0014",
+    "cant_dep": 491,
+    "cant_gon": 118,
+    "vencimiento": "07/08/2023"
+  },
+  {
+    "cd_articulo": "VER0015",
+    "cant_dep": 1277,
+    "cant_gon": 98,
+    "vencimiento": "08/08/2023"
+  },
+  {
+    "cd_articulo": "VER0016",
+    "cant_dep": 187,
+    "cant_gon": 215,
+    "vencimiento": "09/08/2023"
+  },
+  {
+    "cd_articulo": "VER0017",
+    "cant_dep": 2424,
+    "cant_gon": 227,
+    "vencimiento": "10/08/2023"
+  },
+  {
+    "cd_articulo": "VER0018",
+    "cant_dep": 2135,
+    "cant_gon": 115,
+    "vencimiento": "11/08/2023"
+  },
+  {
+    "cd_articulo": "VER0019",
+    "cant_dep": 250,
+    "cant_gon": 65,
+    "vencimiento": "12/08/2023"
+  },
+  {
+    "cd_articulo": "VER0020",
+    "cant_dep": 1254,
+    "cant_gon": 175,
+    "vencimiento": "13/08/2023"
+  },
+  {
+    "cd_articulo": "VER0021",
+    "cant_dep": 1555,
+    "cant_gon": 31,
+    "vencimiento": "01/08/2023"
+  },
+  {
+    "cd_articulo": "VER0022",
+    "cant_dep": 561,
+    "cant_gon": 0,
+    "vencimiento": "02/08/2023"
+  },
+  {
+    "cd_articulo": "VER0023",
+    "cant_dep": 1767,
+    "cant_gon": 159,
+    "vencimiento": "03/08/2023"
+  },
+  {
+    "cd_articulo": "VER0024",
+    "cant_dep": 198,
+    "cant_gon": 186,
+    "vencimiento": "04/08/2023"
+  },
+  {
+    "cd_articulo": "VER0025",
+    "cant_dep": 1259,
+    "cant_gon": 141,
+    "vencimiento": "05/08/2023"
+  },
+  {
+    "cd_articulo": "VER0026",
+    "cant_dep": 1889,
+    "cant_gon": 72,
+    "vencimiento": "06/08/2023"
+  },
+  {
+    "cd_articulo": "VER0027",
+    "cant_dep": 2387,
+    "cant_gon": 93,
+    "vencimiento": "07/08/2023"
+  },
+  {
+    "cd_articulo": "VER0028",
+    "cant_dep": 339,
+    "cant_gon": 54,
+    "vencimiento": "08/08/2023"
+  },
+  {
+    "cd_articulo": "VER0029",
+    "cant_dep": 1495,
+    "cant_gon": 182,
+    "vencimiento": "09/08/2023"
+  },
+  {
+    "cd_articulo": "VER0030",
+    "cant_dep": 563,
+    "cant_gon": 137,
+    "vencimiento": "10/08/2023"
+  },
+  {
+    "cd_articulo": "VER0030",
+    "cant_dep": 563,
+    "cant_gon": 137,
+    "vencimiento": "10/07/2023"
+  }
+]

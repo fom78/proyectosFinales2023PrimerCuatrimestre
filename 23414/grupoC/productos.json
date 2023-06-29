@@ -1,0 +1,51 @@
+[
+   {
+      "codigo": 200,
+      "nombre": "Fideos tirabuzon",
+      "categoria": "Almacen",
+      "cantidad": 500,
+      "EsNacional": true
+   },
+   {
+      "codigo": 201,
+      "nombre": "Papel higienico",
+      "categoria": "Limpieza",
+      "cantidad": 200,
+      "EsNacional": true
+   },
+   {
+      "codigo": 202,
+      "nombre": "Coca cola",
+      "categoria": "Bebidas",
+      "cantidad": 600,
+      "EsNacional": true
+   },
+   {
+      "codigo": 203,
+      "nombre": "Jamon crudo",
+      "categoria": "Fiambreria",
+      "cantidad": 80,
+      "EsNacional": false
+   },
+   {
+      "codigo": 204,
+      "nombre": "rollo de cocina",
+      "categoria": "Limpieza",
+      "cantidad": 200,
+      "EsNacional": true
+   },
+   {
+      "codigo": 205,
+      "nombre": "Cerveza Rubia",
+      "categoria": "Bebidas",
+      "cantidad": 100,
+      "EsNacional": true
+   },
+   {
+      "codigo": 206,
+      "nombre": "Palta",
+      "categoria": "comida",
+      "cantidad": 40,
+      "EsNacional": true
+   }
+]

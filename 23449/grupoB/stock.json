@@ -1,0 +1,50 @@
+[
+  {
+    "codigo": "H001",
+    "nombre": "Martillo",
+    "precio": 300,
+    "esNacional": false,
+    "stock": 454,
+    "categoria": "Construccion"
+  },
+  {
+    "codigo": "H002",
+    "nombre": "Serrucho",
+    "precio": 450,
+    "esNacional": false,
+    "stock": 230,
+    "categoria": "Construccion"
+  },
+  {
+    "codigo": "H003",
+    "nombre": "Destornillador",
+    "precio": 340,
+    "esNacional": true,
+    "stock": 45,
+    "categoria": "Herramientas"
+  },
+  {
+    "codigo": "H004",
+    "nombre": "Clavo",
+    "precio": 30,
+    "esNacional": true,
+    "stock": 4800,
+    "categoria": "Ferreteria"
+  },
+  {
+    "codigo": "H005",
+    "nombre": "Lamparita",
+    "precio": 310,
+    "esNacional": false,
+    "stock": 468,
+    "categoria": "Electricidad"
+  },
+  {
+    "codigo": "H006",
+    "nombre": "Taladro Electrico",
+    "precio": 2500,
+    "esNacional": false,
+    "stock": 2500,
+    "categoria": "Herramientas"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "producto": "aceite girasol 900 ml",
+    "categoria": "almacen",
+    "codigo": "A0001",
+    "cant": 818,
+    "precio": 607.0
+  },
+  {
+    "producto": "acondicionador comun 930 cm3",
+    "categoria": "limpieza y aseo",
+    "codigo": "B0001",
+    "cant": 754,
+    "precio": 422.0
+  },
+  {
+    "producto": "alfajor paquete 46 grs",
+    "categoria": "almacen",
+    "codigo": "A0005",
+    "cant": 596,
+    "precio": 95.0
+  },
+  {
+    "producto": "algodon paquete 100 grs",
+    "categoria": "limpieza y aseo",
+    "codigo": "B0003",
+    "cant": 546,
+    "precio": 203.0
+  },
+  {
+    "producto": "amargo botella 1.5 lts",
+    "categoria": "bebidas",
+    "codigo": "C0001",
+    "cant": 820,
+    "precio": 241.0
+  },
+  {
+    "producto": "azucar comun 1 kg",
+    "categoria": "almacen",
+    "codigo": "A009",
+    "cant": 789,
+    "precio": 372.0
+  },
+  {
+    "producto": "banana indistinta 1 kg",
+    "categoria": "verduleria",
+    "codigo": "D001",
+    "cant": 742,
+    "precio": 449.0
+  },
+  {
+    "producto": "barra de cereal varios 16 grs",
+    "categoria": "sin tacc",
+    "codigo": "E001",
+    "cant": 592,
+    "precio": 115.0
+  },
+  {
+    "producto": "budin indistinto 200 grs",
+    "categoria": "panificados",
+    "codigo": "F001",
+    "cant": 548,
+    "precio": 441.0
+  },
+  {
+    "producto": "cafe en granos 250 grs",
+    "categoria": "almacen",
+    "codigo": "A0012",
+    "cant": 377,
+    "precio": 1028.0
+  },
+  {
+    "producto": "calabaza indistinta 1 kg",
+    "categoria": "verduleria",
+    "codigo": "D0002",
+    "cant": 414,
+    "precio": 224.0
+  },
+  {
+    "producto": "cappuccino instantaneo indistinto 155 grs",
+    "categoria": "sin tacc",
+    "codigo": "E0002",
+    "cant": 578,
+    "precio": 558.0
+  },
+  {
+    "producto": "cebolla indistinta 1 kg",
+    "categoria": "verduleria",
+    "codigo": "D0003",
+    "cant": 888,
+    "precio": 174.0
+  },
+  {
+    "producto": "crema de leche entera 200 grs",
+    "categoria": "lacteos",
+    "codigo": "G0001",
+    "cant": 499,
+    "precio": 299.0
+  },
+  {
+    "producto": "dentrifico comun 90 grs",
+    "categoria": "limpieza y aseo",
+    "codigo": "B0004",
+    "cant": 662,
+    "precio": 313.0
+  },
+  {
+    "producto": "detergente comun 750 cm3",
+    "categoria": "limpieza y aseo",
+    "codigo": "B0006",
+    "cant": 767,
+    "precio": 347.0
+  },
+  {
+    "producto": "endulzante liquido 180 cm3",
+    "categoria": "sin tacc",
+    "codigo": "E0003",
+    "cant": 593,
+    "precio": 336.0
+  },
+  {
+    "producto": "fajitas bolsa 6 un",
+    "categoria": "panificados",
+    "codigo": "F0002",
+    "cant": 707,
+    "precio": 467.0
+  },
+  {
+    "producto": "fideo sopero 500 grs",
+    "categoria": "almacen",
+    "codigo": "A0017",
+    "cant": 375,
+    "precio": 172.0
+  },
+  {
+    "producto": "fideos tallarines 500 grs",
+    "categoria": "sin tacc",
+    "codigo": "E0004",
+    "cant": 547,
+    "precio": 290.0
+  },
+  {
+    "producto": "galleta de arroz tostada 100 grs",
+    "categoria": "sin tacc",
+    "codigo": "E0005",
+    "cant": 774,
+    "precio": 229.0
+  },
+  {
+    "producto": "galletitas dulces light indistinto 200 grs",
+    "categoria": "sin tacc",
+    "codigo": "E0006",
+    "cant": 656,
+    "precio": 487.0
+  },
+  {
+    "producto": "galletitas saladas paquete 330 grs",
+    "categoria": "almacen",
+    "codigo": "A0020",
+    "cant": 566,
+    "precio": 266.0
+  },
+  {
+    "producto": "gaseosa botella 1.5 lts",
+    "categoria": "bebidas",
+    "codigo": "C0002",
+    "cant": 838,
+    "precio": 257.0
+  },
+  {
+    "producto": "guantes jardineria verde 2 un",
+    "categoria": "limpieza y aseo",
+    "codigo": "B0007",
+    "cant": 520,
+    "precio": 638.0
+  },
+  {
+    "producto": "harina comun tipo 000 1 kg",
+    "categoria": "almacen",
+    "codigo": "A0022",
+    "cant": 739,
+    "precio": 158.0
+  },
+  {
+    "producto": "harina integral enriquecida 1 kg",
+    "categoria": "almacen",
+    "codigo": "A0025",
+    "cant": 422,
+    "precio": 242.0
+  },
+  {
+    "producto": "helado familiar 3 lts",
+    "categoria": "frescos",
+    "codigo": "H0001",
+    "cant": 430,
+    "precio": 1614.0
+  },
+  {
+    "producto": "helado individual (2 variedades) 1 lts",
+    "categoria": "frescos",
+    "codigo": "H0002",
+    "cant": 817,
+    "precio": 1110.0
+  },
+  {
+    "producto": "huevos indistinto 6 un",
+    "categoria": "verduleria",
+    "codigo": "D0004",
+    "cant": 894,
+    "precio": 388.0
+  },
+  {
+    "producto": "jabon en polvo baja espuma 400 grs",
+    "categoria": "limpieza y aseo",
+    "codigo": "B0009",
+    "cant": 466,
+    "precio": 241.0
+  },
+  {
+    "producto": "jugo sobre 20 grs",
+    "categoria": "bebidas",
+    "codigo": "C0003",
+    "cant": 392,
+    "precio": 63.0
+  },
+  {
+    "producto": "leche entera en polvo 400 grs",
+    "categoria": "lacteos",
+    "codigo": "G0002",
+    "cant": 418,
+    "precio": 829.0
+  },
+  {
+    "producto": "leche entera larga vida 1 lts",
+    "categoria": "lacteos",
+    "codigo": "G0003",
+    "cant": 719,
+    "precio": 273.0
+  },
+  {
+    "producto": "leche entera sachet 1 lts",
+    "categoria": "lacteos",
+    "codigo": "G0004",
+    "cant": 871,
+    "precio": 243.0
+  },
+  {
+    "producto": "lechuga indistinta 1 kg",
+    "categoria": "verduleria",
+    "codigo": "D0005",
+    "cant": 641,
+    "precio": 620.0
+  },
+  {
+    "producto": "madalenas comunes 15 un",
+    "categoria": "panificados",
+    "codigo": "F0003",
+    "cant": 347,
+    "precio": 312.0
+  },
+  {
+    "producto": "manteca entera 200 grs",
+    "categoria": "lacteos",
+    "codigo": "G0005",
+    "cant": 470,
+    "precio": 459.0
+  },
+  {
+    "producto": "manzana indistinta 1 kg",
+    "categoria": "verduleria",
+    "codigo": "D0006",
+    "cant": 844,
+    "precio": 655.0
+  },
+  {
+    "producto": "medallon de carne caja 4 un",
+    "categoria": "frescos",
+    "codigo": "H0003",
+    "cant": 658,
+    "precio": 586.0
+  },
+  {
+    "producto": "merluza indistinto 1 kg",
+    "categoria": "carniceria",
+    "codigo": "I0001",
+    "cant": 826,
+    "precio": 1636.0
+  },
+  {
+    "producto": "milanesa de soja bandeja 4 un",
+    "categoria": "frescos",
+    "codigo": "H0004",
+    "cant": 637,
+    "precio": 354.0
+  },
+  {
+    "producto": "naranja indistinta 1 kg",
+    "categoria": "verduleria",
+    "codigo": "D0007",
+    "cant": 804,
+    "precio": 550.0
+  },
+  {
+    "producto": "pan comun indistinto 1 kg",
+    "categoria": "panificados",
+    "codigo": "F0004",
+    "cant": 590,
+    "precio": 369.0
+  },
+  {
+    "producto": "pan lactal comun rodajas 335 grs",
+    "categoria": "panificados",
+    "codigo": "F0005",
+    "cant": 449,
+    "precio": 365.0
+  },
+  {
+    "producto": "pan rallado paquete 500 grs",
+    "categoria": "panificados",
+    "codigo": "F0007",
+    "cant": 378,
+    "precio": 188.0
+  },
+  {
+    "producto": "pollo fresco 1 kg",
+    "categoria": "carniceria",
+    "codigo": "I0002",
+    "cant": 374,
+    "precio": 697.0
+  },
+  {
+    "producto": "pulpa de cerdo comun 1 kg",
+    "categoria": "carniceria",
+    "codigo": "I0003",
+    "cant": 676,
+    "precio": 1472.0
+  },
+  {
+    "producto": "queso barra fetas 100 grs",
+    "categoria": "frescos",
+    "codigo": "H0007",
+    "cant": 368,
+    "precio": 258.0
+  },
+  {
+    "producto": "queso rallado sobre 40 grs",
+    "categoria": "lacteos",
+    "codigo": "G0008",
+    "cant": 665,
+    "precio": 176.0
+  },
+  {
+    "producto": "salchichas indistintas 6 un",
+    "categoria": "sin tacc",
+    "codigo": "E0013",
+    "cant": 314,
+    "precio": 178.0
+  },
+  {
+    "producto": "shampoo comun 930 cm3",
+    "categoria": "limpieza y aseo",
+    "codigo": "B0015",
+    "cant": 344,
+    "precio": 429.0
+  },
+  {
+    "producto": "suavizante regular 900 ml",
+    "categoria": "limpieza y aseo",
+    "codigo": "B0016",
+    "cant": 670,
+    "precio": 295.0
+  },
+  {
+    "producto": "tapa de asado comun 1 kg",
+    "categoria": "carniceria",
+    "codigo": "I0004",
+    "cant": 757,
+    "precio": 1954.0
+  },
+  {
+    "producto": "tapa de nalga comun 1 kg",
+    "categoria": "carniceria",
+    "codigo": "I0005",
+    "cant": 620,
+    "precio": 1985.0
+  },
+  {
+    "producto": "tomate indistinto 1 kg",
+    "categoria": "verduleria",
+    "codigo": "D0009",
+    "cant": 448,
+    "precio": 899.0
+  },
+  {
+    "producto": "tostadas indistinto 200 grs",
+    "categoria": "sin tacc",
+    "codigo": "E0014",
+    "cant": 503,
+    "precio": 237.0
+  },
+  {
+    "producto": "yerba mate tradicional 500 grs",
+    "categoria": "almacen",
+    "codigo": "A0044",
+    "cant": 515,
+    "precio": 476.0
+  },
+  {
+    "producto": "yogurt entero sachet 1 lts",
+    "categoria": "lacteos",
+    "codigo": "G0010",
+    "cant": 713,
+    "precio": 357.0
+  },
+  {
+    "producto": "zanahoria indistinta 1 kg",
+    "categoria": "verduleria",
+    "codigo": "D0010",
+    "cant": 583,
+    "precio": 246.0
+  }
+]

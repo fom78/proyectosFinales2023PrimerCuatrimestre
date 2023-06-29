@@ -1,0 +1,632 @@
+[
+    {
+        "nacional": true,
+        "nombre": "Martillo",
+        "codigo": "A1001",
+        "cantidad": 10,
+        "categoria": "Herramientas manuales"
+    },
+    {
+        "nacional": true,
+        "nombre": "Destornillador",
+        "codigo": "A1002",
+        "cantidad": 15,
+        "categoria": "Herramientas manuales"
+    },
+    {
+        "nacional": true,
+        "nombre": "Alicates",
+        "codigo": "A1003",
+        "cantidad": 10,
+        "categoria": "Herramientas manuales"
+    },
+    {
+        "nacional": true,
+        "nombre": "Llave Inglesa",
+        "codigo": "A1004",
+        "cantidad": 8,
+        "categoria": "Herramientas manuales"
+    },
+    {
+        "nacional": true,
+        "nombre": "Cinta métrica",
+        "codigo": "A1005",
+        "cantidad": 12,
+        "categoria": "Herramientas manuales"
+    },
+    {
+        "nacional": true,
+        "nombre": "Nivelador",
+        "codigo": "A1006",
+        "cantidad": 5,
+        "categoria": "Herramientas manuales"
+    },
+    {
+        "nacional": true,
+        "nombre": "Lijadora eléctrica",
+        "codigo": "A1007",
+        "cantidad": 7,
+        "categoria": "Herramnientas electricas"
+    },
+    {
+        "nacional": true,
+        "nombre": "Lijadora",
+        "codigo": "A1008",
+        "cantidad": 3,
+        "categoria": "Herramnientas electricas"
+    },
+    {
+        "nacional": true,
+        "nombre": "Sierra eléctrica",
+        "codigo": "A1009",
+        "cantidad": 6,
+        "categoria": "Herramnientas electricas"
+    },
+    {
+        "nacional": true,
+        "nombre": "Amoladora",
+        "codigo": "A1010",
+        "cantidad": 7,
+        "categoria": "Herramnientas electricas"
+    },
+    {
+        "nacional": true,
+        "nombre": "Pistola de calor",
+        "codigo": "A1011",
+        "cantidad": 3,
+        "categoria": "Herramnientas electricas"
+    },
+    {
+        "nacional": true,
+        "nombre": "Sierra de calar",
+        "codigo": "A1012",
+        "cantidad": 3,
+        "categoria": "Herramnientas electricas"
+    },
+    {
+        "nacional": true,
+        "nombre": "Gafa protectora",
+        "codigo": "B2001",
+        "cantidad": 20,
+        "categoria": "Equipos de seguridad"
+    },
+    {
+        "nacional": true,
+        "nombre": "Guantes de trabajo",
+        "codigo": "B2002",
+        "cantidad": 15,
+        "categoria": "Equipos de seguridad"
+    },
+    {
+        "nacional": true,
+        "nombre": "Casco de seguridad",
+        "codigo": "B2003",
+        "cantidad": 5,
+        "categoria": "Equipos de seguridad"
+    },
+    {
+        "nacional": true,
+        "nombre": "Máscara respiratoria",
+        "codigo": "B2004",
+        "cantidad": 10,
+        "categoria": "Equipos de seguridad"
+    },
+    {
+        "nacional": true,
+        "nombre": "Protector auditivo",
+        "codigo": "B2005",
+        "cantidad": 10,
+        "categoria": "Equipos de seguridad"
+    },
+    {
+        "nacional": true,
+        "nombre": "Chaleco reflectante",
+        "codigo": "B2006",
+        "cantidad": 5,
+        "categoria": "Equipos de seguridad"
+    },
+    {
+        "nacional": true,
+        "nombre": "Tornillos",
+        "codigo": "C3001",
+        "cantidad": 689,
+        "categoria": "Material de fijación"
+    },
+    {
+        "nacional": true,
+        "nombre": "Clavos",
+        "codigo": "C3002",
+        "cantidad": 7365,
+        "categoria": "Material de fijación"
+    },
+    {
+        "nacional": true,
+        "nombre": "Tuercas",
+        "codigo": "C3003",
+        "cantidad": 3746,
+        "categoria": "Material de fijación"
+    },
+    {
+        "nacional": true,
+        "nombre": "Pernos",
+        "codigo": "C3004",
+        "cantidad": 736,
+        "categoria": "Material de fijación"
+    },
+    {
+        "nacional": true,
+        "nombre": "Tacos",
+        "codigo": "C3005",
+        "cantidad": 500,
+        "categoria": "Material de fijación"
+    },
+    {
+        "nacional": true,
+        "nombre": "Adhesivos",
+        "codigo": "C3006",
+        "cantidad": 50,
+        "categoria": "Material de fijación"
+    },
+    {
+        "nacional": true,
+        "nombre": "Cintas Adhesivas",
+        "codigo": "C3007",
+        "cantidad": 68,
+        "categoria": "Material de fijación"
+    },
+    {
+        "nacional": true,
+        "nombre": "Selladores",
+        "codigo": "C3008",
+        "cantidad": 77,
+        "categoria": "Material de fijación"
+    },
+    {
+        "nacional": true,
+        "nombre": "Pintura interior",
+        "codigo": "D4001",
+        "cantidad": 176,
+        "categoria": "Pintura y Accesorios"
+    },
+    {
+        "nacional": true,
+        "nombre": "Pintura exterior",
+        "codigo": "D4002",
+        "cantidad": 98,
+        "categoria": "Pintura y Accesorios"
+    },
+    {
+        "nacional": true,
+        "nombre": "Brochas",
+        "codigo": "D4003",
+        "cantidad": 20,
+        "categoria": "Pintura y Accesorios"
+    },
+    {
+        "nacional": true,
+        "nombre": "Rodillos",
+        "codigo": "D4004",
+        "cantidad": 22,
+        "categoria": "Pintura y Accesorios"
+    },
+    {
+        "nacional": true,
+        "nombre": "Bandeja de pintura",
+        "codigo": "D4005",
+        "cantidad": 10,
+        "categoria": "Pintura y Accesorios"
+    },
+    {
+        "nacional": true,
+        "nombre": "Cinta de enmascarar",
+        "codigo": "D4006",
+        "cantidad": 10,
+        "categoria": "Pintura y Accesorios"
+    },
+    {
+        "nacional": true,
+        "nombre": "Papel lija",
+        "codigo": "D4007",
+        "cantidad": 32,
+        "categoria": "Pintura y Accesorios"
+    },
+    {
+        "nacional": true,
+        "nombre": "Pa\u00f1os de limpieza",
+        "codigo": "D4008",
+        "cantidad": 12,
+        "categoria": "Pintura y Accesorios"
+    },
+    {
+        "nacional": true,
+        "nombre": "Disolventes",
+        "codigo": "D4009",
+        "cantidad": 5,
+        "categoria": "Pintura y Accesorios"
+    },
+    {
+        "nacional": false,
+        "nombre": "Grifos",
+        "codigo": "E5001",
+        "cantidad": 7,
+        "categoria": "Fontaneria"
+    },
+    {
+        "nacional": false,
+        "nombre": "Tuberias",
+        "codigo": "E5002",
+        "cantidad": 22,
+        "categoria": "Fontaneria"
+    },
+    {
+        "nacional": false,
+        "nombre": "Filtros de agua",
+        "codigo": "E5003",
+        "cantidad": 34,
+        "categoria": "Fontaneria"
+    },
+    {
+        "nacional": false,
+        "nombre": "Medidor de presión",
+        "codigo": "E5004",
+        "cantidad": 35,
+        "categoria": "Fontaneria"
+    },
+    {
+        "nacional": false,
+        "nombre": "Racores",
+        "codigo": "E5005",
+        "cantidad": 43,
+        "categoria": "Fontaneria"
+    },
+    {
+        "nacional": false,
+        "nombre": "Juntas",
+        "codigo": "E5006",
+        "cantidad": 345,
+        "categoria": "Fontaneria"
+    },
+    {
+        "nacional": false,
+        "nombre": "Tubos de PVC",
+        "codigo": "E5007",
+        "cantidad": 41,
+        "categoria": "Fontaneria"
+    },
+    {
+        "nacional": false,
+        "nombre": "Codos",
+        "codigo": "E5008",
+        "cantidad": 64,
+        "categoria": "Fontaneria"
+    },
+    {
+        "nacional": false,
+        "nombre": "Extractor de aire",
+        "codigo": "E5009",
+        "cantidad": 11,
+        "categoria": "Fontaneria"
+    },
+    {
+        "nacional": false,
+        "nombre": "Cintas de teflón",
+        "codigo": "E5010",
+        "cantidad": 32,
+        "categoria": "Fontaneria"
+    },
+    {
+        "nacional": false,
+        "nombre": "Vástagos",
+        "codigo": "E5011",
+        "cantidad": 10,
+        "categoria": "Fontaneria"
+    },
+    {
+        "nacional": false,
+        "nombre": "Llaves de paso",
+        "codigo": "E5012",
+        "cantidad": 11,
+        "categoria": "Fontaneria"
+    },
+    {
+        "nacional": false,
+        "nombre": "Desatascadores",
+        "codigo": "E5013",
+        "cantidad": 6,
+        "categoria": "Fontaneria"
+    },
+    {
+        "nacional": false,
+        "nombre": "Bomba de agua",
+        "codigo": "E5014",
+        "cantidad": 3,
+        "categoria": "Fontaneria"
+    },
+    {
+        "nacional": true,
+        "nombre": "Interruptores",
+        "codigo": "F6001",
+        "cantidad": 345,
+        "categoria": "Electricidad"
+    },
+    {
+        "nacional": true,
+        "nombre": "Enchufes",
+        "codigo": "F6002",
+        "cantidad": 321,
+        "categoria": "Electricidad"
+    },
+    {
+        "nacional": true,
+        "nombre": "Regletas",
+        "codigo": "F6003",
+        "cantidad": 5,
+        "categoria": "Electricidad"
+    },
+    {
+        "nacional": true,
+        "nombre": "Portalámparas",
+        "codigo": "F6004",
+        "cantidad": 10,
+        "categoria": "Electricidad"
+    },
+    {
+        "nacional": true,
+        "nombre": "Fusibles",
+        "codigo": "F6005",
+        "cantidad": 25,
+        "categoria": "Electricidad"
+    },
+    {
+        "nacional": true,
+        "nombre": "Lámparas",
+        "codigo": "F6006",
+        "cantidad": 77,
+        "categoria": "Electricidad"
+    },
+    {
+        "nacional": true,
+        "nombre": "Prolongadores",
+        "codigo": "F6007",
+        "cantidad": 17,
+        "categoria": "Electricidad"
+    },
+    {
+        "nacional": true,
+        "nombre": "Timbres",
+        "codigo": "F6008",
+        "cantidad": 35,
+        "categoria": "Electricidad"
+    },
+    {
+        "nacional": true,
+        "nombre": "Tijera de podar",
+        "codigo": "G7001",
+        "cantidad": 4,
+        "categoria": "Ferreteria de jardin"
+    },
+    {
+        "nacional": true,
+        "nombre": "Rastrillo",
+        "codigo": "G7002",
+        "cantidad": 17,
+        "categoria": "Ferreteria de jardin"
+    },
+    {
+        "nacional": true,
+        "nombre": "Pala",
+        "codigo": "G7003",
+        "cantidad": 8,
+        "categoria": "Ferreteria de jardin"
+    },
+    {
+        "nacional": true,
+        "nombre": "Manguera",
+        "codigo": "G7004",
+        "cantidad": 7,
+        "categoria": "Ferreteria de jardin"
+    },
+    {
+        "nacional": true,
+        "nombre": "Pulverizador",
+        "codigo": "G7005",
+        "cantidad": 10,
+        "categoria": "Ferreteria de jardin"
+    },
+    {
+        "nacional": true,
+        "nombre": "Riego automático",
+        "codigo": "G7006",
+        "cantidad": 23,
+        "categoria": "Ferreteria de jardin"
+    },
+    {
+        "nacional": true,
+        "nombre": "Podadora",
+        "codigo": "G7007",
+        "cantidad": 3,
+        "categoria": "Ferreteria de jardin"
+    },
+    {
+        "nacional": true,
+        "nombre": "Desbrozadora",
+        "codigo": "G7008",
+        "cantidad": 1,
+        "categoria": "Ferreteria de jardin"
+    },
+    {
+        "nacional": true,
+        "nombre": "Sopladores de hojas",
+        "codigo": "G7009",
+        "cantidad": 2,
+        "categoria": "Ferreteria de jardin"
+    },
+    {
+        "nacional": true,
+        "nombre": "Aspersores",
+        "codigo": "G7010",
+        "cantidad": 21,
+        "categoria": "Ferreteria de jardin"
+    },
+    {
+        "nacional": true,
+        "nombre": "Rastrillos de jardín",
+        "codigo": "G7011",
+        "cantidad": 9,
+        "categoria": "Ferreteria de jardin"
+    },
+    {
+        "nacional": false,
+        "nombre": "Cerradura de puerta",
+        "codigo": "H8001",
+        "cantidad": 44,
+        "categoria": "Cerraduras y Seguridad"
+    },
+    {
+        "nacional": false,
+        "nombre": "Candado",
+        "codigo": "H8002",
+        "cantidad": 56,
+        "categoria": "Cerraduras y Seguridad"
+    },
+    {
+        "nacional": false,
+        "nombre": "Mirilla",
+        "codigo": "H8003",
+        "cantidad": 9,
+        "categoria": "Cerraduras y Seguridad"
+    },
+    {
+        "nacional": false,
+        "nombre": "Sistema de alarma",
+        "codigo": "H8004",
+        "cantidad": 5,
+        "categoria": "Cerraduras y Seguridad"
+    },
+    {
+        "nacional": false,
+        "nombre": "Cerrojos",
+        "codigo": "H8005",
+        "cantidad": 13,
+        "categoria": "Cerraduras y Seguridad"
+    },
+    {
+        "nacional": false,
+        "nombre": "Cadena de seguridad",
+        "codigo": "H8006",
+        "cantidad": 8,
+        "categoria": "Cerraduras y Seguridad"
+    },
+    {
+        "nacional": false,
+        "nombre": "Bisagra",
+        "codigo": "H8007",
+        "cantidad": 74,
+        "categoria": "Cerraduras y Seguridad"
+    },
+    {
+        "nacional": false,
+        "nombre": "Pomo",
+        "codigo": "H8008",
+        "cantidad": 63,
+        "categoria": "Cerraduras y Seguridad"
+    },
+    {
+        "nacional": true,
+        "nombre": "Ladrillos",
+        "codigo": "I9001",
+        "cantidad": 4567,
+        "categoria": "Construccion"
+    },
+    {
+        "nacional": true,
+        "nombre": "Bloques de cemento",
+        "codigo": "I9002",
+        "cantidad": 43,
+        "categoria": "Construccion"
+    },
+    {
+        "nacional": true,
+        "nombre": "Tejas",
+        "codigo": "I9003",
+        "cantidad": 467,
+        "categoria": "Construccion"
+    },
+    {
+        "nacional": true,
+        "nombre": "Vigas",
+        "codigo": "I9004",
+        "cantidad": 75,
+        "categoria": "Construccion"
+    },
+    {
+        "nacional": true,
+        "nombre": "Mallas de alambre",
+        "codigo": "I9005",
+        "cantidad": 78,
+        "categoria": "Construccion"
+    },
+    {
+        "nacional": true,
+        "nombre": "Cemento",
+        "codigo": "I9006",
+        "cantidad": 54,
+        "categoria": "Construccion"
+    },
+    {
+        "nacional": true,
+        "nombre": "Yeso",
+        "codigo": "I9007",
+        "cantidad": 97,
+        "categoria": "Construccion"
+    },
+    {
+        "nacional": true,
+        "nombre": "Arena",
+        "codigo": "I9008",
+        "cantidad": 34,
+        "categoria": "Construccion"
+    },
+    {
+        "nacional": true,
+        "nombre": "Grava",
+        "codigo": "I9009",
+        "cantidad": 673,
+        "categoria": "Construccion"
+    },
+    {
+        "nacional": true,
+        "nombre": "Aislantes",
+        "codigo": "I9010",
+        "cantidad": 45,
+        "categoria": "Construccion"
+    },
+    {
+        "nacional": true,
+        "nombre": "Colgadores",
+        "codigo": "j10001",
+        "cantidad": 56,
+        "categoria": "Accesorios para el hogar"
+    },
+    {
+        "nacional": true,
+        "nombre": "Estanterías",
+        "codigo": "j10002",
+        "cantidad": 27,
+        "categoria": "Accesorios para el hogar"
+    },
+    {
+        "nacional": true,
+        "nombre": "Cajas de herramientas",
+        "codigo": "j10003",
+        "cantidad": 6,
+        "categoria": "Accesorios para el hogar"
+    },
+    {
+        "nacional": true,
+        "nombre": "Escalera",
+        "codigo": "j10004",
+        "cantidad": 7,
+        "categoria": "Accesorios para el hogar"
+    }
+]
